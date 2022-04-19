@@ -1,8 +1,7 @@
 class script(object):
     START_TXT = """Hello {},
 
-Iam A Simple Auto Filter + Movie Search + Manual Filter Bot. I Can Provide Movies In Telegram Groups. I Can Also Add Filters In Telegram Groups.  Just Add Me To Your Group And Enjoy
-
+Iam A Simple Auto Filter + Movie Search + Manual Filter Bot. I Can Provide Movies In Telegram Groups. I Can Also Add Filters In Telegram Groups.  Just Add Me To Your Group And Enjoy.
 Made With ❤ BY @sahid_malik"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
